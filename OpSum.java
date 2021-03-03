@@ -3,13 +3,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class OpSum {
-	/**
-	 * Constructor.
-	 */
-	public OpSum() {
-	}
 	
-	//FIND ANSWER
+//FIND ANSWER
 	/**
 	 * Takes the desired number of operands (n) and their desired sum (s),
 	 * then returns an array of n operands that sum to s. 
@@ -67,7 +62,7 @@ public class OpSum {
 	}
 	
 	
-	//VERIFY ANSWER
+//VERIFY ANSWER
 	/**
 	 * Verifies that answer passes all tests
 	 * @param numOps desired number of operands 
